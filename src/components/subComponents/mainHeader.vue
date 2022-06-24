@@ -4,7 +4,7 @@
             <div class="logo">
                 <img src="../../assets/logo.png" alt="">
             </div>
-            <p>宝德智慧园区数据管理系统</p>
+            <p>后台智慧园区数据管理系统</p>
         </div>
         
         <div class="userAndOperate">

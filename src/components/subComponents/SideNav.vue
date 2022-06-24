@@ -8,8 +8,9 @@
                 background-color="#E7E8EB"
                 text-color="#474747"
                 active-text-color="#3A8FF5"
-                :unique-opened="true"
+               
                 >
+                <!-- :unique-opened="true" -->
                 <!-- <sidebar-item v-for="router of routers" :key="router.path" :item="router" :base-path="router.path"></sidebar-item> -->
                
                    <!-- <el-submenu :index="item.path" v-for="(item,index) in Info" :key="index">
